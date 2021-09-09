@@ -1,0 +1,3 @@
+Esta taller me mostró una forma que no conocía y que es muy útil, ateriormente versionaba los cambios numerándo
+los archivos que funcionaban y los subía a un drive donde los compartía con mis compañeros, así hice el proyecto
+del segundo semestre, de haber conocido a Git hubiese sido genial.
